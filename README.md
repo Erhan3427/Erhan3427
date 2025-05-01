@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Merhaba! Ben Erhan Şimşek
 
 🎓 Bilgisayar Mühendisliği mezunuyum. C#, SQL ve Entity Framework ile masaüstü uygulamaları geliştiriyorum. projeler yaparak yazılım geliştirme alanında kendimi sürekli geliştiriyorum.
