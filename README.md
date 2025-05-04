@@ -11,7 +11,7 @@
 - 🎯 C# 
 - 🧱  OOP prensipleri
 - 📊 SQL Server ve veri modelleme
-- 🖥️ Entity Framework Core (Code First / DB First)
+- 🖥️ Entity Framework Core 
 - 🛠 Yazılım geliştirme metodolojileri
 - 🌐 ASP.NET Core (öğrenme aşamasında)
 
