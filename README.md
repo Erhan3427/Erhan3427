@@ -1,24 +1,25 @@
+# 👋 Hello! I'm Erhan Şimşek
 
-# 👋 Merhaba! Ben Erhan Şimşek
+🎓 I’m a Computer Engineering graduate, developing desktop applications using **C#**, **SQL**, and **Entity Framework**. I continuously improve myself in software development by working on real-world projects.
 
-🎓 Bilgisayar Mühendisliği mezunuyum. C#, SQL ve Entity Framework ile masaüstü uygulamaları geliştiriyorum. projeler yaparak yazılım geliştirme alanında kendimi sürekli geliştiriyorum.
+💡 I enjoy exploring new technologies, doing research, and solving real-life problems through software. I’m currently focused on building my **career in software development** and am ready to actively contribute to both individual and team-based projects.
 
-💡 Yeni teknolojileri takip etmeyi, araştırma yapmayı ve yazılımla gerçek hayat problemlerine çözüm üretmeyi seviyorum. Şu anda **yazılım geliştirme kariyerime** odaklıyım ve çeşitli projelerle hem bireysel hem takım çalışmalarında aktif yer almaya hazırım.
-
----
-
-## 🚀 İlgi Alanlarım
-- 🎯 C# 
-- 🧱  OOP prensipleri
-- 📊 SQL Server ve veri modelleme
-- 🖥️ Entity Framework Core 
-- 🛠 Yazılım geliştirme metodolojileri
-- 🌐 ASP.NET Core (öğrenme aşamasında)
-
+📫 How to reach me: **Erhansimsek47@hotmail.com**
 
 ---
 
-## 🔧 Kullandığım Teknolojiler
+## 🚀 Interests
+
+- 🎯 C#  
+- 🧱 Object-Oriented Programming (OOP)  
+- 📊 SQL Server & Data Modeling  
+- 🖥️ Entity Framework Core  
+- 🛠 Software Development Methodologies  
+- 🌐 ASP.NET Core *(in progress)*
+
+---
+
+## 🔧 Technologies I Use
 
 <p>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -30,7 +31,7 @@
 
 ---
 
-## 📈 GitHub İstatistikleri
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Erhan3427&show_icons=true&theme=github_dark" width="48%"/>
@@ -39,7 +40,4 @@
 
 ---
 
-
-
-> 💬 Yeni projelere ve takım çalışmalarına açığım. Her zaman öğrenmeye ve gelişmeye devam! 🚀
-
+> 💬 I’m open to new projects and collaborative teamwork. Always learning, always growing! 🚀
