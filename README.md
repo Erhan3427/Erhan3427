@@ -1,3 +1,5 @@
+**🌐 Languages: [English](#hello-im-erhan-şimşek) | [Türkçe](#türkçe-versiyon)**
+
 # 👋 Hello! I'm Erhan Şimşek
 
 🎓 I’m a Computer Engineering graduate, developing desktop applications using **C#**, **SQL**, and **Entity Framework**. I continuously improve myself in software development by working on real-world projects.
@@ -41,3 +43,28 @@
 ---
 
 > 💬 I’m open to new projects and collaborative teamwork. Always learning, always growing! 🚀
+>
+> ---
+
+## 🇹🇷 Türkçe Versiyon
+
+🎓 Bilgisayar Mühendisliği mezunuyum. C#, SQL ve Entity Framework ile masaüstü uygulamaları geliştiriyorum. Projeler yaparak yazılım geliştirme alanında kendimi sürekli geliştiriyorum.
+
+💡 Yeni teknolojileri takip etmeyi, araştırma yapmayı ve yazılımla gerçek hayat problemlerine çözüm üretmeyi seviyorum. Şu anda **yazılım geliştirme kariyerime** odaklıyım ve çeşitli projelerle hem bireysel hem takım çalışmalarında aktif yer almaya hazırım.
+
+📫 Bana ulaşın: **Erhansimsek47@hotmail.com**
+
+---
+
+### 🚀 İlgi Alanlarım
+- 🎯 C#  
+- 🧱 OOP prensipleri  
+- 📊 SQL Server ve veri modelleme  
+- 🖥️ Entity Framework Core  
+- 🛠 Yazılım geliştirme metodolojileri  
+- 🌐 ASP.NET Core *(öğrenme aşamasında)*
+
+---
+
+> 💬 Yeni projelere ve takım çalışmalarına açığım. Her zaman öğrenmeye ve gelişmeye devam! 🚀
+
