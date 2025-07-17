@@ -56,6 +56,8 @@ A desktop application designed for the textile industry to manage inventory, ord
 >
 > ---
 
+
+
 ## 🇹🇷 Türkçe Versiyon
 
 🎓 Bilgisayar Mühendisliği mezunuyum. C#, SQL ve Entity Framework ile masaüstü uygulamaları geliştiriyorum. Projeler yaparak yazılım geliştirme alanında kendimi sürekli geliştiriyorum.
