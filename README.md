@@ -17,7 +17,8 @@
 - 📊 SQL Server & Data Modeling  
 - 🖥️ Entity Framework Core  
 - 🛠 Software Development Methodologies  
-- 🌐 ASP.NET Core *(in progress)*
+- 🌐 ASP.NET Core
+- 🌐 Web API
 
 ---
 
@@ -57,6 +58,7 @@ A desktop application designed for the textile industry to manage inventory, ord
 > ---
 
 -----
+-----
 
 ## 🇹🇷 Türkçe Versiyon
 
@@ -74,7 +76,8 @@ A desktop application designed for the textile industry to manage inventory, ord
 - 📊 SQL Server ve veri modelleme  
 - 🖥️ Entity Framework Core  
 - 🛠 Yazılım geliştirme metodolojileri  
-- 🌐 ASP.NET Core *(öğrenme aşamasında)*
+- 🌐 ASP.NET Core
+- 🌐 Web API
 
 ---
 ###  Projelerim
