@@ -41,9 +41,9 @@
 </p>
 
 ---
-My projects
+### My projects
 
-Tekstile - Printing Management System
+**Tekstile - Printing Management System**
 A desktop application designed for the textile industry to manage inventory, orders, and accounting processes.
 Technologies: C#, Windows Forms, Entity Framework Core, Layered Architecture, SQL Server, Dependency Injection, DTO, Validation
  This project is actively under development.
@@ -73,9 +73,10 @@ Technologies: C#, Windows Forms, Entity Framework Core, Layered Architecture, SQ
 
 ---
 ###  Projelerim
-Tekstile - Baskı Yönetim Sistemi
+
+**Tekstile - Baskı Yönetim Sistemi**
 Tekstil sektörüne özel olarak geliştirilen, stok, sipariş ve muhasebe süreçlerini yöneten masaüstü uygulama.
-Teknolojiler: C#, Windows Forms, Entity Framework Core, Katmanlı Mimari, SQL Server, Dependency Injection, DTO, Validation
+**Teknolojiler**: C#, Windows Forms, Entity Framework Core, Katmanlı Mimari, SQL Server, Dependency Injection, DTO, Validation
  Proje aktif olarak geliştirilmektedir.
 ---
 > 💬 Yeni projelere ve takım çalışmalarına açığım. Her zaman öğrenmeye ve gelişmeye devam! 🚀
