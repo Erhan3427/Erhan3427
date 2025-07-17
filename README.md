@@ -56,7 +56,7 @@ A desktop application designed for the textile industry to manage inventory, ord
 >
 > ---
 
-
+-----
 
 ## 🇹🇷 Türkçe Versiyon
 
